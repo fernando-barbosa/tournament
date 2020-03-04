@@ -1,6 +1,7 @@
 {
     "games": [
       {
+        "id": 1,
         "teamHomeId": 1,
         "teamVisitorId": 2,
         "date": "2020-05-02T00:00:00.000Z",
@@ -9,6 +10,7 @@
         "scoreVisitor": 2
       },
       {
+        "id": 2,
         "teamHomeId": 3,
         "teamVisitorId": 4,
         "date": "2020-05-02T00:00:00.000Z",
@@ -17,6 +19,7 @@
         "scoreVisitor": 2
       },
       {
+        "id": 3,
         "teamHomeId": 5,
         "teamVisitorId": 6,
         "date": "2020-05-02T00:00:00.000Z",
@@ -25,6 +28,7 @@
         "scoreVisitor": 1
       },
       {
+        "id": 4,
         "teamHomeId": 7,
         "teamVisitorId": 8,
         "date": "2020-05-02T00:00:00.000Z",
@@ -33,6 +37,7 @@
         "scoreVisitor": 3
       },
       {
+        "id": 5,
         "teamHomeId": 9,
         "teamVisitorId": 10,
         "date": "2020-05-02T00:00:00.000Z",
@@ -41,6 +46,7 @@
         "scoreVisitor": 1
       },
       {
+        "id": 6,
         "teamHomeId": 11,
         "teamVisitorId": 12,
         "date": "2020-05-02T00:00:00.000Z",
@@ -49,6 +55,7 @@
         "scoreVisitor": 2
       },
       {
+        "id": 7,
         "teamHomeId": 13,
         "teamVisitorId": 14,
         "date": "2020-05-02T00:00:00.000Z",
@@ -57,6 +64,7 @@
         "scoreVisitor": 1
       },
       {
+        "id": 8,
         "teamHomeId": 15,
         "teamVisitorId": 16,
         "date": "2020-05-02T00:00:00.000Z",
@@ -65,6 +73,7 @@
         "scoreVisitor": 2
       },
       {
+        "id": 9,
         "teamHomeId": 17,
         "teamVisitorId": 18,
         "date": "2020-05-02T00:00:00.000Z",
