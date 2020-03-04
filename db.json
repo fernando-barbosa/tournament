@@ -1,0 +1,76 @@
+{
+    "tournament": [
+      {
+        "teamHomeId": 1,
+        "teamVisitorId": 2,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 1,
+        "scoreHome": 4,
+        "scoreVisitor": 2
+      },
+      {
+        "teamHomeId": 3,
+        "teamVisitorId": 4,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 2,
+        "scoreHome": 1,
+        "scoreVisitor": 2
+      },
+      {
+        "teamHomeId": 5,
+        "teamVisitorId": 6,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 3,
+        "scoreHome": 2,
+        "scoreVisitor": 1
+      },
+      {
+        "teamHomeId": 7,
+        "teamVisitorId": 8,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 4,
+        "scoreHome": 3,
+        "scoreVisitor": 3
+      },
+      {
+        "teamHomeId": 9,
+        "teamVisitorId": 10,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 5,
+        "scoreHome": 0,
+        "scoreVisitor": 1
+      },
+      {
+        "teamHomeId": 11,
+        "teamVisitorId": 12,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 6,
+        "scoreHome": 2,
+        "scoreVisitor": 2
+      },
+      {
+        "teamHomeId": 13,
+        "teamVisitorId": 14,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 7,
+        "scoreHome": 2,
+        "scoreVisitor": 1
+      },
+      {
+        "teamHomeId": 15,
+        "teamVisitorId": 16,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 8,
+        "scoreHome": 1,
+        "scoreVisitor": 2
+      },
+      {
+        "teamHomeId": 17,
+        "teamVisitorId": 18,
+        "date": "2020-05-02T00:00:00.000Z",
+        "stadiumId": 9,
+        "scoreHome": 1,
+        "scoreVisitor": 3
+      }
+    ]
+}
