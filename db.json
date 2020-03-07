@@ -1,88 +1,92 @@
 {
     "games": {
-      "games": [
-        {
-          "id": 1,
-          "team_home_id": 1,
-          "team_visitor_id": 2,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 1,
-          "score_home": 4,
-          "score_visitor": 2
-        },
-        {
-          "id": 2,
-          "team_home_id": 3,
-          "team_visitor_id": 4,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 2,
-          "score_home": 1,
-          "score_visitor": 2
-        },
-        {
-          "id": 3,
-          "team_home_id": 5,
-          "team_visitor_id": 6,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 3,
-          "score_home": 2,
-          "score_visitor": 1
-        },
-        {
-          "id": 4,
-          "team_home_id": 7,
-          "team_visitor_id": 8,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 4,
-          "score_home": 3,
-          "score_visitor": 3
-        },
-        {
-          "id": 5,
-          "team_home_id": 9,
-          "team_visitor_id": 10,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 5,
-          "score_home": 0,
-          "score_visitor": 1
-        },
-        {
-          "id": 6,
-          "team_home_id": 11,
-          "team_visitor_id": 12,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 6,
-          "score_home": 2,
-          "score_visitor": 2
-        },
-        {
-          "id": 7,
-          "team_home_id": 13,
-          "team_visitor_id": 14,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 7,
-          "score_home": 2,
-          "score_visitor": 1
-        },
-        {
-          "id": 8,
-          "team_home_id": 15,
-          "team_visitor_id": 16,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 8,
-          "score_home": 1,
-          "score_visitor": 2
-        },
-        {
-          "id": 9,
-          "team_home_id": 17,
-          "team_visitor_id": 18,
-          "date": "2020-05-02T00:00:00.000Z",
-          "stadium_id": 9,
-          "score_home": 1,
-          "score_visitor": 3
-        }
-      ]},
+      "tournament": {
+        "id": 1,
+        "games": [
+          {
+            "id": 1,
+            "team_home_id": 1,
+            "team_visitor_id": 2,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 1,
+            "score_home": 4,
+            "score_visitor": 2
+          },
+          {
+            "id": 2,
+            "team_home_id": 3,
+            "team_visitor_id": 4,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 2,
+            "score_home": 1,
+            "score_visitor": 2
+          },
+          {
+            "id": 3,
+            "team_home_id": 5,
+            "team_visitor_id": 6,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 3,
+            "score_home": 2,
+            "score_visitor": 1
+          },
+          {
+            "id": 4,
+            "team_home_id": 7,
+            "team_visitor_id": 8,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 4,
+            "score_home": 3,
+            "score_visitor": 3
+          },
+          {
+            "id": 5,
+            "team_home_id": 9,
+            "team_visitor_id": 10,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 5,
+            "score_home": 0,
+            "score_visitor": 1
+          },
+          {
+            "id": 6,
+            "team_home_id": 11,
+            "team_visitor_id": 12,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 6,
+            "score_home": 2,
+            "score_visitor": 2
+          },
+          {
+            "id": 7,
+            "team_home_id": 13,
+            "team_visitor_id": 14,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 7,
+            "score_home": 2,
+            "score_visitor": 1
+          },
+          {
+            "id": 8,
+            "team_home_id": 15,
+            "team_visitor_id": 16,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 8,
+            "score_home": 1,
+            "score_visitor": 2
+          },
+          {
+            "id": 9,
+            "team_home_id": 17,
+            "team_visitor_id": 18,
+            "date": "2020-05-02T00:00:00.000Z",
+            "stadium_id": 9,
+            "score_home": 1,
+            "score_visitor": 3
+          }
+        ]
+      }
+    },
     "teams": [
         {
           "id": 1,
