@@ -224,25 +224,25 @@
           {
             "time": 5,
             "event": "goal",
-            "team_id": 1,
+            "team_name": "Flamengo",
             "player": "Gabriel Barbosa"
           },
           {
             "time": 22,
             "event": "goal",
-            "team_id": 1,
+            "team_name": "Flamengo",
             "player": "Bruno Henrique"
           },
           {
             "time": 45,
             "event": "red_card",
-            "team_id": 1,
+            "team_name": "Flamengo",
             "player": "René"
           },
           {
             "time": 68,
             "event": "yellow_card",
-            "team_id": 2,
+            "team_name": "Santos",
             "player": "Yeferson Soteldo"
           }
         ]
@@ -253,19 +253,19 @@
           {
             "time": 23,
             "event": "goal",
-            "team_id": 3,
+            "team_name": "Palmeiras",
             "player": "Dudu"
           },
           {
             "time": 45,
             "event": "goal",
-            "team_id": 4,
+            "team_name": "Palmeiras",
             "player": "Dudu"
           },
           {
             "time": 42,
             "event": "red_card",
-            "team_id": 3,
+            "team_name": "Palmeiras",
             "player": "Felipe Melo"
           }
         ]
