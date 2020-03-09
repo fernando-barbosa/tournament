@@ -10,27 +10,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 1,
             "score_home": 4,
-            "score_visitor": 2,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 1,
-                "player": "Gabriel Barbosa"
-              },
-              {
-                "time": 22,
-                "event": "red_card",
-                "team_id": 1,
-                "player": "Gabriel Barbosa"
-              },
-              {
-                "time": 42,
-                "event": "goal",
-                "team_id": 2,
-                "player": "Yeferson Soteldo"
-              }
-            ]
+            "score_visitor": 2
           },
           {
             "id": 2,
@@ -39,15 +19,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 2,
             "score_home": 1,
-            "score_visitor": 2,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 3,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 2
           },
           {
             "id": 3,
@@ -56,15 +28,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 3,
             "score_home": 2,
-            "score_visitor": 1,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 5,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 1
           },
           {
             "id": 4,
@@ -73,15 +37,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 4,
             "score_home": 3,
-            "score_visitor": 3,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 8,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 3
           },
           {
             "id": 5,
@@ -90,15 +46,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 5,
             "score_home": 0,
-            "score_visitor": 1,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 9,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 1
           },
           {
             "id": 6,
@@ -107,15 +55,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 6,
             "score_home": 2,
-            "score_visitor": 2,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 11,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 2
           },
           {
             "id": 7,
@@ -124,15 +64,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 7,
             "score_home": 2,
-            "score_visitor": 1,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 13,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 1
           },
           {
             "id": 8,
@@ -141,15 +73,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 8,
             "score_home": 1,
-            "score_visitor": 2,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 15,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 2
           },
           {
             "id": 9,
@@ -158,15 +82,7 @@
             "date": "2020-05-02T00:00:00.000Z",
             "stadium_id": 9,
             "score_home": 1,
-            "score_visitor": 3,
-            "events": [
-              {
-                "time": 5,
-                "event": "goal",
-                "team_id": 17,
-                "player": "Gabriel Barbosa"
-              }
-            ]
+            "score_visitor": 3
           }
         ]
       }
