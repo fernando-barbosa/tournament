@@ -219,7 +219,7 @@
       ],
     "events": [
       {
-        "game_id": 1,
+        "id": 1,
         "events": [
           {
             "time": 5,
@@ -248,7 +248,7 @@
         ]
       },
       {
-        "game_id": 2,
+        "id": 2,
         "events": [
           {
             "time": 23,
