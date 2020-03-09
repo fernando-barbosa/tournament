@@ -15,31 +15,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 1,
+                "team_id": 1,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "red_card",
-                "teamId": 1,
+                "team_id": 1,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 2,
+                "team_id": 2,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 1,
+                "team_id": 1,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 2,
+                "team_id": 2,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -56,31 +56,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 3,
+                "team_id": 3,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 3,
+                "team_id": 3,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 2,
+                "team_id": 2,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 4,
+                "team_id": 4,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 4,
+                "team_id": 4,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -97,31 +97,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 5,
+                "team_id": 5,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 6,
+                "team_id": 6,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 6,
+                "team_id": 6,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 5,
+                "team_id": 5,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "red_card",
-                "teamId": 6,
+                "team_id": 6,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -138,31 +138,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 8,
+                "team_id": 8,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 7,
+                "team_id": 7,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 8,
+                "team_id": 8,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 7,
+                "team_id": 7,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 27,
+                "team_id": 27,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -179,31 +179,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 9,
+                "team_id": 9,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 10,
+                "team_id": 10,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 9,
+                "team_id": 9,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 10,
+                "team_id": 10,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 9,
+                "team_id": 9,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -220,31 +220,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 11,
+                "team_id": 11,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 12,
+                "team_id": 12,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 12,
+                "team_id": 12,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 11,
+                "team_id": 11,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 12,
+                "team_id": 12,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -261,31 +261,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 13,
+                "team_id": 13,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 14,
+                "team_id": 14,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 13,
+                "team_id": 13,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 13,
+                "team_id": 13,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 13,
+                "team_id": 13,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -302,31 +302,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 15,
+                "team_id": 15,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 15,
+                "team_id": 15,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 15,
+                "team_id": 15,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 15,
+                "team_id": 15,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 16,
+                "team_id": 16,
                 "player": "Bryan Ruiz"
               }
             ]
@@ -343,31 +343,31 @@
               {
                 "time": 5,
                 "event": "goal",
-                "teamId": 17,
+                "team_id": 17,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 22,
                 "event": "goal",
-                "teamId": 17,
+                "team_id": 17,
                 "player": "Gabriel Barbosa"
               },
               {
                 "time": 42,
                 "event": "goal",
-                "teamId": 18,
+                "team_id": 18,
                 "player": "Yeferson Soteldo"
               },
               {
                 "time": 56,
                 "event": "goal",
-                "teamId": 17,
+                "team_id": 17,
                 "player": "Diego Ribas"
               },
               {
                 "time": 64,
                 "event": "yellow_card",
-                "teamId": 18,
+                "team_id": 18,
                 "player": "Bryan Ruiz"
               }
             ]
