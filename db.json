@@ -29,18 +29,6 @@
                 "event": "goal",
                 "team_id": 2,
                 "player": "Yeferson Soteldo"
-              },
-              {
-                "time": 56,
-                "event": "goal",
-                "team_id": 1,
-                "player": "Diego Ribas"
-              },
-              {
-                "time": 64,
-                "event": "yellow_card",
-                "team_id": 2,
-                "player": "Bryan Ruiz"
               }
             ]
           },
